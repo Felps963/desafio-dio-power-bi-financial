@@ -85,15 +85,6 @@ Números gerais da base:
 
 ---
 
-## ▶️ Como abrir o projeto
-
-1. Instale o [Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/) (gratuito).
-2. Baixe este repositório e abra o arquivo `sample_financial_desafio.pbix`.
-3. Para os mapas aparecerem, habilite os visuais de mapa em:
-   **Arquivo → Opções e configurações → Opções → Global → Segurança → Usar visuais de Mapa e de Mapa Preenchido**.
-
----
-
 ## 🧰 Tecnologias
 
 - Power BI Desktop
